@@ -13,8 +13,8 @@
 
   /***********************************/
   // Customise the app by changing the following variables.
-  const TITLE = "STAR ATLAS USTURPUNKS COLLECTION P";
-  const DESCRTIPTION = "NFT collection of 10.000 uniquely generated punks based on Ustur faction robots in Star Atlas Metaverse. NFT ownership equals exclusive membership equals discounts on in game club events and perks.";
+  const TITLE = "STAR ATLAS USTURPUNKS - P COLLECTION";
+  const DESCRTIPTION = "NFT collection of 10.000 uniquely generated punks based on Ustur faction robots in Star Atlas Metaverse. NFT ownership equals exclusive membership equals discounts on in game events and perks.";
   const HEADER_TITLE = "";
   const HEADER_LINK = "";
   // Your image or GIF needs to be in the /public folder for this to work
